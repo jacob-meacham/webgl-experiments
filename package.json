@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "webgl-workshop": "file:../webgl-workshop"
+    "webgl-workshop": "file:../webgl-workshop",
+    "shader-school": "file:../shader-school"
   }
 }
